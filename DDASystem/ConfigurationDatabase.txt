@@ -1,0 +1,33 @@
+CO2 emissions vs Energy use vs PM2.5 air pollution
+Canada,Brazil
+2012,2019
+
+PM2.5 air pollution vs Forest area
+France
+2012,2019
+
+CO2 emissions vs GDP
+China
+2016,2020
+Pie Chart
+Forest area
+USA
+2010,2020
+Pie Chart
+Government education expenditure
+USA
+2013,2017
+Pie Chart
+Hospital beds vs Health expenditure
+Canada
+2010,2015
+Pie Chart
+Health expenditure vs Mortality
+
+2016,2020
+
+Government education expenditure vs Health expenditure
+Canada
+2010,2020
+Pie Chart
+
